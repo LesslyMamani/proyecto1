@@ -1,3 +1,4 @@
+
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
@@ -6,8 +7,8 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Pagina principal</h1>
-        <%@include file="menu.jsp" %>
-
+        <h1>contacto</h1>
+         <%@include file="menu.jsp" %>
+        <p>contacto de lllamada</p>
     </body>
 </html>

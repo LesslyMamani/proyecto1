@@ -7,6 +7,7 @@
     </head>
     <body>
         <h1>Quienes Somos</h1>
+         <%@include file="menu.jsp" %>
         <h2>Que es esto</h2>
         <p>lorem15kdhufsiugudfhbsdhfbshdfbshdbfsdbfsdjbfjsdb</p>
     </body>
